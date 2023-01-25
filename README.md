@@ -18,3 +18,9 @@ Assignement is to create and backtest the traditional 12-minus-1 (12-1) month pr
 
 The data file contains monthly returns of stocks being included in the MSCI World index, in the period of January 1995 – October 2021. 
 Missing data means that the stock was not included in the MSCI World Index, therefore should not be used to form the long-short strategy.
+
+************************************************* FILES *************************************************
+
+1. 'Case_dataset.xlsx' : input data
+2. '12_1_momentum_strategy.ipynb': Python notebook
+3. '12_1_momentum_strategy.pdf': Model presentation
